@@ -77,10 +77,5 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 <br/>
 
-## 💻 Screens
 
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
-</p>
-<br/>
 
