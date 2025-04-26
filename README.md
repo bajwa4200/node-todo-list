@@ -1,9 +1,7 @@
 # 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🚀
 
 <br/>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
-</p>
+
 
 ## ⭐ Introduction
 
@@ -90,14 +88,3 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 </p>
 <br/>
 
-## 🐦 Follow Me:
-
-> [Dev Community](https://dev.to/ayushkanduri)
-
-> [Twitter](https://twitter.com/ayush_codes)
-
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
-
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
-
-I hope you like the project. Thanks for reading :)
